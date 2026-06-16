@@ -1,0 +1,38 @@
+I need these details first:
+
+1. **Her name** and preferred title  
+   Example: “Sahana B Battur”, “First Year Engineering Student”
+
+2. **Branch + college**
+   Example: CSE / ECE / AI & DS, college name, city
+
+3. **Short intro**
+   2-3 lines about her: interests, goals, what she is learning.
+
+4. **Photo**
+   One good profile photo if you want it on the site.
+
+5. **Skills**
+   Example: C, Python, HTML, CSS, Canva, communication, problem solving.
+
+6. **Projects / mini work**
+   Even small things are fine: class projects, simple websites, coding practice, presentations, hackathons.
+
+7. **Achievements / certifications**
+   Any certificates, events, workshops, competitions, school/college achievements.
+
+8. **Contact links**
+   Email, phone optional, LinkedIn, GitHub, Instagram only if she wants public.
+
+9. **Style preference**
+   Choose one:  
+   - clean and simple  
+   - modern student portfolio  
+   - cute/soft aesthetic  
+   - professional engineering style  
+   - dark premium style
+
+10. **Resume**
+   If she has one, send it. If not, I can build the site first and leave resume download optional.
+
+Minimum to start: **name, branch/college, photo, skills, contact, and preferred style**.
